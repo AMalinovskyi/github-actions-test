@@ -1,0 +1,22 @@
+name: Alex
+age: 24
+address: "Komarov 38"
+active: true
+key:
+  key: value
+  key2: value
+  key3: 
+    some: awdawd
+array:
+  - item1
+  - item2 
+  - { key: value, key2: value2 }
+array2: [item2, item2]
+objectArray:
+  - key: value
+    key2: value
+  - key: value2
+    key3: value3
+LongText: |
+  awdklajwdjklahwkdhawiudhauiwhdiahwidawdiajuwhdiuawhdiuahwihdia
+  aiwudgaiwgdiawguidgauiwdgauywgdyuagwudygauwgdugauwgduagwud
